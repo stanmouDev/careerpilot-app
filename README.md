@@ -1,3 +1,5 @@
+![CareerPilot App Screenshot](readme_images/careerpilot-app%20logo.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
